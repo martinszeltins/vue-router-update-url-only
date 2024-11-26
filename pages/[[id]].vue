@@ -337,6 +337,7 @@
          */
 
         // navigateTo('/123')
+        // router.push({ params: { id: '123' } })
         router.push('/123')
         // router.replace('/123')
         // window.history.pushState({}, '', '/123') // This updates the URL but doesn't update the $route
